@@ -6,6 +6,7 @@
 
     $search_targets = [
         'Sample Name',
+        'Sample Type',
         "Material",
         "Classification",
         "Field Name",
